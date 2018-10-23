@@ -1,2 +1,2 @@
 # API-Rest
-API Rest with JSX implementation.
+Rest API with JSX implementation.
